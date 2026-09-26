@@ -101,8 +101,8 @@ float calcular_adicional_peso(float subtotal, float peso) {
 }
 
 float calcular_adicional_modalidade(float subtotal, int modalidade) {
-    if (modalidade == 2) return subtotal * 0.15; // Expressa
-    if (modalidade == 3) return subtotal * 0.30; // Prioritária
+    if (modalidade == 2) return subtotal * 0.15; 
+    if (modalidade == 3) return subtotal * 0.30; 
     return 0.0; // Econômica
 }
 
