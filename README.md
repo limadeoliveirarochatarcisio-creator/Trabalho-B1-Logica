@@ -21,3 +21,5 @@ A solução foi modularizada com funções de responsabilidades bem definidas:
 Para compilar o projeto utilizando o GCC, execute no terminal:
 ```bash
 gcc src/main.c -o simulador
+
+Trabalho finalizado e testado.
